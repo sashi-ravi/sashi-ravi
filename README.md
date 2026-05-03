@@ -70,6 +70,22 @@
 <tr>
 <td width="50%">
 
+### 🎓 NextGen LMS
+- MERN Stack Application  
+- AI-based learning recommendations  
+- Student engagement tracking  
+- AI tutor chatbot  
+- Personalized learning paths  
+
+</td>
+<td width="50%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🚀 SLIIT Connect
 - MERN Stack Application  
 - Club management system  
@@ -77,7 +93,7 @@
 
 </td>
 <td width="50%">
-<!-- EMPTY (no image here) -->
+<!-- EMPTY -->
 </td>
 </tr>
 
@@ -85,7 +101,7 @@
 <td width="50%">
 
 ### 🏢 Facilities Management
-- Spring Boot + React  
+- MERN Stack Application  
 - Resource allocation system  
 - Admin dashboard  
 
@@ -99,7 +115,7 @@
 <td width="50%">
 
 ### 🛒 POS System
-- Next.js Application  
+- MERN Stack Application  
 - Product & order handling  
 - Modern UI  
 
@@ -112,6 +128,7 @@
 </tr>
 
 </table>
+
 ---
 
 ## 🏆 Achievements
