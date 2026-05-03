@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2374,50:7F00FF,100:00F7FF&height=230&section=header&text=Sashi%20Ravi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Java&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2374,50:7F00FF,100:00F7FF&height=230&section=header&text=Sashini%20Ravihansi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Java&descAlignY=58&descSize=18" />
 </p>
 
 <h2 align="center">✨ Welcome to My GitHub Universe ✨</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Java+Backend+Developer;Building+Smart+and+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Hi+I'm+Sashini+Ravihansi;Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Java+Backend+Developer" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🚀 Working with **MERN, Next.js, Java, C++, C**  
 - 🌱 Always learning new technologies  
 - 💡 Passionate about building real-world software systems  
-- 🤝 Open to collaboration on web development projects  
+- 🤝 Open to collaboration  
 
 ---
 
@@ -70,37 +70,27 @@
 <td width="50%">
 
 ### 🚀 SLIIT Connect  
-**MERN Stack Application**
-
-- Student interaction platform  
+- MERN Stack Application  
 - Club management system  
-- Role-based access control  
-- Admin and student dashboards  
+- Student interaction platform  
 
 </td>
 <td width="50%">
-
 <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="100%"/>
-
 </td>
 </tr>
 
 <tr>
 <td width="50%">
 
-### 🏢 Facilities Management System  
-**Spring Boot + React + MongoDB**
-
+### 🏢 Facilities Management  
+- Spring Boot + React  
 - Resource allocation system  
-- Facility create, update, delete functions  
-- Search and filtering  
-- Admin dashboard with validations  
+- Admin dashboard  
 
 </td>
 <td width="50%">
-
 <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af1-910c-c37f35f2e210.gif" width="100%"/>
-
 </td>
 </tr>
 
@@ -108,25 +98,20 @@
 <td width="50%">
 
 ### 🛒 POS System  
-**Next.js Application**
-
-- Product management  
-- Order handling  
-- Modern frontend structure  
-- Scalable UI design  
+- Next.js Application  
+- Product & order handling  
+- Modern UI  
 
 </td>
 <td width="50%">
-
 <img src="https://user-images.githubusercontent.com/74038190/216656972-7dc2b8b5-3db2-49a9-90b1-cf4c7a1365b6.gif" width="100%"/>
-
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sashi-ravi&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -134,18 +119,10 @@
 
 ---
 
-## 💫 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sashi-ravi&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sashi-ravi&color=00f7ff&style=for-the-badge" />
 </p>
 
 ---
