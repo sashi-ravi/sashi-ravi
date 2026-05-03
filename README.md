@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Spring+Boot+Developer;Always+Learning+New+Things" />
+</p>
 <h1 align="center">Hi 👋, I'm Sashi Ravi</h1>
 <h3 align="center">Full Stack Developer | IT Student at SLIIT</h3>
 
