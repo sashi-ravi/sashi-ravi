@@ -66,49 +66,52 @@
 ## 🧩 Featured Projects
 
 <table>
+
 <tr>
 <td width="50%">
 
-### 🚀 SLIIT Connect  
+### 🚀 SLIIT Connect
 - MERN Stack Application  
 - Club management system  
 - Student interaction platform  
 
 </td>
 <td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="100%"/>
+<!-- EMPTY (no image here) -->
 </td>
 </tr>
 
 <tr>
 <td width="50%">
 
-### 🏢 Facilities Management  
+### 🏢 Facilities Management
 - Spring Boot + React  
 - Resource allocation system  
 - Admin dashboard  
 
 </td>
 <td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af1-910c-c37f35f2e210.gif" width="100%"/>
+<!-- EMPTY -->
 </td>
 </tr>
 
 <tr>
 <td width="50%">
 
-### 🛒 POS System  
+### 🛒 POS System
 - Next.js Application  
 - Product & order handling  
 - Modern UI  
 
 </td>
 <td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/216656972-7dc2b8b5-3db2-49a9-90b1-cf4c7a1365b6.gif" width="100%"/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
 </td>
 </tr>
-</table>
 
+</table>
 ---
 
 ## 🏆 Achievements
